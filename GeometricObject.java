@@ -1,4 +1,4 @@
-package generics;
+package sortingAlgorithms;
 
 public abstract class GeometricObject implements Comparable<GeometricObject>{
 	protected String color = "white";

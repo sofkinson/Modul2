@@ -1,4 +1,4 @@
-package generics;
+package sortingAlgorithms;
 
 public class Circle extends GeometricObject {
 	private double radius;
